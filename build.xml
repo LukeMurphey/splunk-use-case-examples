@@ -1,0 +1,4 @@
+
+<project default="package" name="use_case_examples">
+	<import file="basebuild.xml"/>
+</project>
